@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RinitRoy
-- 👀 I’m interested in Front-End Web Development
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in Front-End Web Development and UI/UX Designing
+- 🌱 I’m currently fresher
 - 💞️ I’m looking to collaborate on ..
 - 📫 How to reach me Instagram or Linkedin - @rinitroy99
 
